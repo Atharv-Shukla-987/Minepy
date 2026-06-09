@@ -5,16 +5,16 @@ A minecraft clone made in python language using a library called ursina {not ful
 
 # CONTROLS
 
-1.Press w ----> for moving forward
-2.Press S ----> for moving backward
-3.Press D ----> for moving right
-4.Press A ----> for moving left
-5.Press Space bar ----> for jump
-6.Mouse Right click----> placing blocks
-7.Mouse left click ----> mining blocks
-8.Press Shift --------> for crouch
+1. Press w ----> for moving forward
+2. Press S ----> for moving backward
+3. Press D ----> for moving right
+4. Press A ----> for moving left
+5. Press Space bar ----> for jump
+6. Mouse Right click----> placing blocks
+7. Mouse left click ----> mining blocks
+8. Press Shift --------> for crouch
 
 
 # HOW TO PLAY
 
-You just need to download the main.zip from here and after exracting it open , the main executable file and after it you are ready to play !!!
+You just need to download the dist.zip from here or you can download from here tooo https://atharv-shukla-987.itch.io/minepy  and after exracting it open , the main executable file and after it you are ready to play !!!
