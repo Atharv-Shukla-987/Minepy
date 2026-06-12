@@ -18,3 +18,9 @@ A minecraft clone made in python language using a library called ursina {not ful
 # HOW TO PLAY
 
 You just need to download the dist.zip from here or you can download from here tooo https://atharv-shukla-987.itch.io/minepy  and after exracting it open , the main executable file and after it you are ready to play !!!
+
+
+
+
+# DEMO VIDEO LINK
+https://youtu.be/KoK-EgJkhhY
